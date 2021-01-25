@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/money-exchange/static/css/main.0a87f9da.chunk.css",
+    "main.js": "/money-exchange/static/js/main.4f8e4b4f.chunk.js",
+    "main.js.map": "/money-exchange/static/js/main.4f8e4b4f.chunk.js.map",
+    "runtime-main.js": "/money-exchange/static/js/runtime-main.7a956447.js",
+    "runtime-main.js.map": "/money-exchange/static/js/runtime-main.7a956447.js.map",
+    "static/js/2.67f52a09.chunk.js": "/money-exchange/static/js/2.67f52a09.chunk.js",
+    "static/js/2.67f52a09.chunk.js.map": "/money-exchange/static/js/2.67f52a09.chunk.js.map",
+    "static/js/3.37758228.chunk.js": "/money-exchange/static/js/3.37758228.chunk.js",
+    "static/js/3.37758228.chunk.js.map": "/money-exchange/static/js/3.37758228.chunk.js.map",
+    "index.html": "/money-exchange/index.html",
+    "static/css/main.0a87f9da.chunk.css.map": "/money-exchange/static/css/main.0a87f9da.chunk.css.map",
+    "static/js/2.67f52a09.chunk.js.LICENSE.txt": "/money-exchange/static/js/2.67f52a09.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a956447.js",
+    "static/js/2.67f52a09.chunk.js",
+    "static/css/main.0a87f9da.chunk.css",
+    "static/js/main.4f8e4b4f.chunk.js"
+  ]
+}
